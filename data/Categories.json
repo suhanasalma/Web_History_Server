@@ -1,0 +1,30 @@
+[
+   {
+      "id":"01",
+      "name":"JAVASCRIPT"
+   },
+   {
+      "id":"02",
+      "name":"PYTHON"
+   },
+   {
+      "id":"03",
+      "name":"C++"
+   },
+   {
+      "id":"04",
+      "name":"JAVA"
+   },
+   {
+      "id":"05",
+      "name":"PHP"
+   },
+   {
+      "id":"06",
+      "name":"FRONTEND"
+   },
+   {
+      "id":"07",
+      "name":"BACKEND"
+   }
+]
