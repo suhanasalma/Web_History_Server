@@ -1,30 +1,52 @@
 [
    {
       "id":"01",
-      "name":"JAVASCRIPT"
+      "name":"JAVASCRIPT",
+      "img":"https://i.ibb.co/xKnMpSH/R-2.jpg"
    },
    {
-      "id":"02",
-      "name":"PYTHON"
+     "id": "02",
+     "name": "PYTHON",
+     "img": "https://i.ibb.co/wg866qR/wp8661113.jpg"
    },
    {
-      "id":"03",
-      "name":"C++"
+     "id": "03",
+     "name": "C++",
+     "img": "https://i.ibb.co/4dDRL1d/R-1.jpg"
    },
    {
-      "id":"04",
-      "name":"JAVA"
+     "id": "04",
+     "name": "JAVA",
+     "img": "https://i.ibb.co/Tv86tgJ/R.jpg"
    },
    {
-      "id":"05",
-      "name":"PHP"
+     "id": "05",
+     "name": "PHP",
+     "img": "https://i.ibb.co/mbHnxvs/php-server-integration-wysiwyg-html-editor-froala-10.png"
    },
    {
-      "id":"06",
-      "name":"FRONTEND"
+     "id": "06",
+     "name": "FRONTEND",
+     "img": "https://i.ibb.co/chHJv9r/Java-Script-58acbb8a3df78c345bad32c2.jpg"
    },
    {
-      "id":"07",
-      "name":"BACKEND"
-   }
+     "id": "07",
+     "name": "BACKEND",
+     "img": "https://i.ibb.co/rb45ZvF/shutterstock-450424690.jpg"
+   },
+   {
+     "id": "08",
+     "name": "All Course",
+     "img": "https://i.ibb.co/QjZmrbw/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg"
+   } ,
+   {
+     "id": "09",
+     "name": "Popular Courses",
+     "img": "https://i.ibb.co/fYS9khV/nick-morrison-FHnnjk1-Yj7-Y-unsplash.jpg"
+   },
+   {
+     "id": "10",
+     "name": "New Courses",
+     "img": "https://i.ibb.co/0JtgrMD/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg"
+   }  
 ]

@@ -1,0 +1,985 @@
+[
+  {
+    "name": "Learning jQuery Mobile for Beginners",
+    "img": "https://i.ibb.co/vXgGN7h/anonymous-woman-studying-with-computer-lawn.jpg",
+    "course_desc": "JQuery Mobile is a user interface framework, built on jQuery Core and used for developing responsive websites or applications that are accessible on mobile, tablet, and desktop devices. It uses features of both jQuery and jQueryUI to provide API features for mobile web applications. This tutorial will teach you the basics of jQuery Mobile framework. We will also discuss some detailed concepts related to jQuery Mobile.",
+    "price": "50$",
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "LIVE PROJECT End to End Software Testing Training Included",
+      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
+      "Information packed practical training starting from basics to advanced testing techniques.",
+      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
+      "Course content designed by considering current software testing technology and the job market.",
+      "Practical assignments at the end of every session.",
+      "Practical learning experience with live project work and examples."
+    ],
+    "id": "0123",
+    "category": "06",
+    "category_name": "Frontend",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+
+  {
+    "name": "Web Designing & HTML5/CSS3",
+    "img": "https://i.ibb.co/m8GbvtL/young-attractive-smiling-student-showing-thumb-up-outdoors-campus-university.jpg",
+    "course_desc": "HTML 5 is the latest version of the HyperText Mark-Up Language. HTML is the language of choice for structuring and presenting content for the World Wide Web. In this free online course you will learn about the latest features of HTML 5 including Geolocation, video, Web worker, canvas/SVG, app cache and database. This course will b_ of great interest to professionals in the areas of Web design and development and to learners who want to gain a greater knowledge and understanding of HTML 5.",
+    "price": "59$",
+    "outcomes": [
+      "After studying this course you will have a greater understanding of the following",
+      "New features of HTML 5 and their uses",
+      "Geolocation for identifying geo-position of users ",
+      "The < video > tag – Canvas and SVG for drawing on the Web",
+      "Use of app cache and database",
+      "Use of Web workers"
+    ],
+    "id": "0625",
+    "category": "06",
+    "category_name": "Frontend",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 0,
+        "duration": "15 hours",
+        "language": "English",
+        "student": 7
+      }
+    ]
+  },
+
+
+
+
+  {
+    "name": "Complete Beginner to JavaScript Developer",
+    "img": "https://i.ibb.co/82gqz71/front-view-female-student-red-shirt-with-backpack-holding-books-files-smiling-blue-wall.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "0986",
+    "category": "06",
+    "category_name": "Frontend",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+
+
+
+
+  {
+    "name": "Learn and Understand AngularJS",
+    "img": "https://i.ibb.co/10j6wpb/young-student-woman-wearing-denim-jacket-eyeglasses-holding-colorful-folders-showing-thumb-up-pink.jpg",
+    "course_desc": "AngularJS extends HTML with new attributes.AngularJS is perfect for Single Page Applications (SPAs)AngularJS is easy to learn.",
+    "price": "100$",
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "LIVE PROJECT End to End Software Testing Training Included",
+      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
+      "Information packed practical training starting from basics to advanced testing techniques.",
+      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
+      "Course content designed by considering current software testing technology and the job market.",
+      "Practical assignments at the end of every session.",
+      "Practical learning experience with live project work and examples."
+    ],
+    "id": "0127",
+    "category": "07",
+    "category_name": "Backend",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 20
+      }
+    ]
+  },
+
+
+
+
+  {
+    "name": "Learn and Understand ReactJS",
+    "img": "https://i.ibb.co/TczCRt7/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background.jpg",
+    "course_desc": "This tutorial is prepared for professionals who are aspiring to make a career in the field of developing front-end web application. This tutorial is intended to make you comfortable in getting started with the React concepts with examples.Before proceeding with the various types of concepts given in this tutorial, we assume that the readers have the basic knowledge in HTML, CSS and OOPS concepts. In addition to this, it will be very helpful, if the readers have a sound knowledge in JavaScript.",
+    "outcomes": [
+      "Setup for the Tutorial will give you a starting point to follow the tutorial.",
+      "Overview will teach you the fundamentals of React: components, props, and state.",
+      "Completing the Game will teach you the most common techniques in React development.",
+      "Adding Time Travel will give you a deeper insight into the unique strengths of React."
+    ],
+    "price": "100$",
+    "id": "0566",
+    "category": "07",
+    "category_name": "Backend",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+
+
+  {
+    "name": "Become a PHP Master and Make Money",
+    "img": "https://i.ibb.co/QDM4Gzg/pleasant-looking-afro-american-woman-holds-notepads-papers-studies-college-glad-finish-studying.jpg",
+    "course_desc": "The en rollers/students can learn the basic programming in PHP and can create their own programs and will also be able to take up the projects related to PHP and  have a deep and strong Understanding of concepts.",
+    "price": "100$",
+    "outcomes": [
+      "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+      "You will learn how to use Databases",
+      "You will learn MySQL.",
+      "Object Oriented Programming."
+    ],
+    "id": "0598",
+    "category": "05",
+    "category_name": "PHP",
+    "teacher_info": [
+      {
+        "teacher-name": "Keny White",
+        "teacher-img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+
+
+  {
+    "name": "PHP 5 Introduction to coding Tutorial",
+    "img": "https://i.ibb.co/Jz1fXTN/red-haired-lady-eyeglasses-holds-books-shows-ok-sign.jpg",
+    "course_desc": "This tutorial will introduce you to PHP, a server-side scripting language you can use to make dynamic websites and web applications. Before you continue you should have a basic understanding of the following:HTML ,CSS ,JavaScript",
+    "price": "50$",
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "LIVE PROJECT End to End Software Testing Training Included",
+      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
+      "Information packed practical training starting from basics to advanced testing techniques.",
+      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
+      "Course content designed by considering current software testing technology and the job market.",
+      "Practical assignments at the end of every session.",
+      "Practical learning experience with live project work and examples."
+    ],
+    "id": "0014",
+    "category": "05",
+    "category_name": "PHP",
+    "teacher-info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+
+  
+
+  {
+    "name": "Learn Python – Interactive Python",
+    "img": "https://i.ibb.co/6mtqY6H/happy-young-female-student-holding-notebooks-from-courses-smiling-camera-standing-spring-clothes-aga.jpg",
+    "course_desc": "If you want to know how to learn Python, this is the only guide you’ll ever need.A little over a decade ago, I was a college graduate with a history degree and few prospects. Then, I became a successful machine learning engineer, data science consultant, and now CEO of Dataquest. This is not an overnight success story, though. My journey to learn Python was long, inefficient, and frequently discouraging.If I could do it over again, I would follow the steps I’m going to share with you in this article. It would have fast-tracked my career, saved thousands of hours of wasted time, and prevented a lot of stress.",
+    "outcomes": [
+      "To be successful with Python, you need to know how to think, study, plan, and execute effectively. This guide addresses all of that. ",
+      "We’ll discuss pitfalls to avoid and identify sources of motivation. We’ll also address the best ways to learn basic syntax and how to get started with real Python projects. ",
+      "We’ll discuss pitfalls to avoid and identify sources of motivation. We’ll also address the best ways to learn basic syntax and how to get started with real Python projects.",
+      "Learning Python can be a difficult and painful experience. But it doesn’t have to be! Take it from me."
+    ],
+    "price": "50$",
+    "id": "0269",
+    "category": "02",
+    "category_name": "Python",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+  {
+    "name": "From Zero to Hero with Nodejs",
+    "img": "https://i.ibb.co/m9jCNT7/front-view-male-student-wearing-black-backpack-holding-copybooks-files-blue-wall.jpg",
+    "course_desc": "If you already know Javascript, then you are ready for the next step. Add Node.js to your tool box and learn how to create an entire application without languages like PHP or Python. Node.js lets you use JavaScript language on the server side of things and uses Google Chrome’s ultra fast V8 execution engine. Add the fact that this is a non-blocking model and it is little wonder why Node.js is so popular.",
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "LIVE PROJECT End to End Software Testing Training Included",
+      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
+      "Information packed practical training starting from basics to advanced testing techniques.",
+      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
+      "Course content designed by considering current software testing technology and the job market.",
+      "Practical assignments at the end of every session.",
+      "Practical learning experience with live project work and examples."
+    ],
+    "id": "0722",
+    "price": "50$",
+    "category": "07",
+    "category_name": "Backend",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+  {
+    "name": "Learn Java",
+    "img": "https://i.ibb.co/H7XLZ9Q/front-view-female-student-white-shirt-black-jacket-wearing-backpack-holding-files-with-copybooks-blu.jpg",
+    "course_desc": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "LIVE PROJECT End to End Software Testing Training Included",
+      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
+      "Information packed practical training starting from basics to advanced testing techniques.",
+      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
+      "Course content designed by considering current software testing technology and the job market.",
+      "Practical assignments at the end of every session.",
+      "Practical learning experience with live project work and examples."
+    ],
+    "price": "50$",
+    "id": "0433",
+    "category": "04",
+    "category_name": "JAVA",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+  {
+    "name": "C++ in easy way",
+    "img": "https://i.ibb.co/Jz1fXTN/red-haired-lady-eyeglasses-holds-books-shows-ok-sign.jpg",
+    "course_desc": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "LIVE PROJECT End to End Software Testing Training Included",
+      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
+      "Information packed practical training starting from basics to advanced testing techniques.",
+      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
+      "Course content designed by considering current software testing technology and the job market.",
+      "Practical assignments at the end of every session.",
+      "Practical learning experience with live project work and examples."
+    ],
+    "price": "50$",
+    "id": "0319",
+    "category": "03",
+
+    "category_name": "C++",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course-feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+  {
+    "name": "Learn Python",
+    "img": "https://i.ibb.co/TczCRt7/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background.jpg",
+    "course_desc": "If you want to know how to learn Python, this is the only guide you’ll ever need.A little over a decade ago, I was a college graduate with a history degree and few prospects. Then, I became a successful machine learning engineer, data science consultant, and now CEO of Dataquest. This is not an overnight success story, though. My journey to learn Python was long, inefficient, and frequently discouraging.If I could do it over again, I would follow the steps I’m going to share with you in this article. It would have fast-tracked my career, saved thousands of hours of wasted time, and prevented a lot of stress.",
+    "outcomes": [
+      "To be successful with Python, you need to know how to think, study, plan, and execute effectively. This guide addresses all of that. ",
+      "We’ll discuss pitfalls to avoid and identify sources of motivation. We’ll also address the best ways to learn basic syntax and how to get started with real Python projects. ",
+      "We’ll discuss pitfalls to avoid and identify sources of motivation. We’ll also address the best ways to learn basic syntax and how to get started with real Python projects.",
+      "Learning Python can be a difficult and painful experience. But it doesn’t have to be! Take it from me."
+    ],
+    "price": "70$",
+    "id": "0248",
+    "category": "02",
+
+    "category_name": "Python",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+  {
+    "name": "Deep Knowledge of C++",
+    "img": "https://i.ibb.co/10j6wpb/young-student-woman-wearing-denim-jacket-eyeglasses-holding-colorful-folders-showing-thumb-up-pink.jpg",
+    "course_desc": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
+    "price": "80$",
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "LIVE PROJECT End to End Software Testing Training Included",
+      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
+      "Information packed practical training starting from basics to advanced testing techniques.",
+      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
+      "Course content designed by considering current software testing technology and the job market.",
+      "Practical assignments at the end of every session.",
+      "Practical learning experience with live project work and examples."
+    ],
+    "id": "0562",
+    "category": "03",
+
+    "category_name": "C++",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 32
+      }
+    ]
+  },
+
+
+  {
+    "name": "Learn JAVA in Hardest Way",
+    "img": "https://i.ibb.co/82gqz71/front-view-female-student-red-shirt-with-backpack-holding-books-files-smiling-blue-wall.jpg",
+    "course_desc": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
+    "price": "70$",
+    "outcomes": [
+      "Over 37 lectures and 55.5 hours of content!",
+      "LIVE PROJECT End to End Software Testing Training Included",
+      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
+      "Information packed practical training starting from basics to advanced testing techniques.",
+      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
+      "Course content designed by considering current software testing technology and the job market.",
+      "Practical assignments at the end of every session.",
+      "Practical learning experience with live project work and examples."
+    ],
+    "id": "0488",
+    "category": "04",
+
+    "category_name": "Java",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 6,
+        "quize": 30,
+        "duration": "60 hours",
+        "language": "English",
+        "student": 3
+      }
+    ]
+  },
+
+
+  {
+    "name": "Way to JavaScript Developer",
+    "img": "https://i.ibb.co/m8GbvtL/young-attractive-smiling-student-showing-thumb-up-outdoors-campus-university.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "0111",
+    "category": "01",
+
+    "category_name": "JAVASCRIPT",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+
+
+  {
+    "name": "JavaScript Developer",
+    "img": "https://i.ibb.co/vXgGN7h/anonymous-woman-studying-with-computer-lawn.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "0100",
+    "category": "01",
+
+    "category_name": "JAVASCRIPT",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "Getting Started with LESS",
+    "img": "https://i.ibb.co/j8GL7Xx/kenny-eliason-1-a-A2-Fadydc-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "0100454",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "HTML5/CSS3 Essentials in 4-Hours",
+    "img": "https://i.ibb.co/82Jr840/dom-fou-YRMWVcdyhm-I-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "0145200",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "Web Designing & HTML5/CSS3",
+    "img": "https://i.ibb.co/5KvWddR/mimi-thian-vd-XMSi-X-n6-M-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "01045120",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "PHP 5 Introduction to coding Tutorial",
+    "img": "https://i.ibb.co/vXgGN7h/anonymous-woman-studying-with-computer-lawn.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "01850",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "HTML Tutorial: HTML & CSS for Beginners",
+    "img": "https://i.ibb.co/5KvWddR/mimi-thian-vd-XMSi-X-n6-M-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "01880",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "Learn and Understand AngularJS",
+    "img": "https://i.ibb.co/3skrGRy/wonderlane-b9-od-Qi5o-Do-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "09650",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "Complete Beginner to JavaScript Developer",
+    "img": "https://i.ibb.co/ZXhD80w/javier-trueba-i-QPr1-Xk-F5-F0-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "01079840",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "1-Hour WordPress Basic Tutorial",
+    "img": "https://i.ibb.co/vXgGN7h/anonymous-woman-studying-with-computer-lawn.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "01008984",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+
+
+  {
+    "name": "HTML Tutorial for Beginners",
+    "img": "https://i.ibb.co/pJMKrS1/sunrise-university-b-K5t-WPETow-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "0101240",
+    "category": "10",
+
+    "category_name": "New Course",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "AngularJS",
+    "img": "https://i.ibb.co/TvfDtXm/alexis-brown-omea-Hb-EFl-N4-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "0457750",
+    "category": "10",
+
+    "category_name": "New Course",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": " Beginner JavaScript Developer",
+    "img": "https://i.ibb.co/FV3VRBv/christin-hume-Hcfwew744z4-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "07846121",
+    "category": "10",
+
+    "category_name": "New Course",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+  {
+    "name": "5-Hour WordPress Basic to Core Tutorial",
+    "img": "https://i.ibb.co/CwfRWbt/element5-digital-j-CIMc-Op-FHig-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": "70$",
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "075480",
+    "category": "10",
+
+    "category_name": "New Course",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  }
+]

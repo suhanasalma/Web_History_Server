@@ -5,6 +5,36 @@ const cors = require("cors");
 
 app.use(cors());
 
+const allCategories = require('./data/Categories.json');
+const allCourse = require('./data/allCourse.json');
+
+app.get('/categories',(req,res)=>{
+   res.send(allCategories)
+})
+
+app.get("/allCourse", (req, res) => {
+  res.send(allCourse);
+});
+
+app.get("/courses/:id", (req, res) => {
+  id = req.params.id;
+
+  if(id === "08"){
+   res.send(allCourse);
+  }
+  else{
+   const courseList = allCourse.filter((course) => course.category === id);
+   res.send(courseList);
+  }
+  
+});
+
+app.get('/course-details/:id',(req,res)=>{
+   id = req.params.id;
+   const course = allCourse.find(c=>c.id === id)
+   res.send(course)
+})
+
 app.get("/", (req, res) => {
   res.send("Server side is running");
 });
