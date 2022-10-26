@@ -3,7 +3,7 @@
     "name": "Learning jQuery Mobile for Beginners",
     "img": "https://i.ibb.co/vXgGN7h/anonymous-woman-studying-with-computer-lawn.jpg",
     "course_desc": "JQuery Mobile is a user interface framework, built on jQuery Core and used for developing responsive websites or applications that are accessible on mobile, tablet, and desktop devices. It uses features of both jQuery and jQueryUI to provide API features for mobile web applications. This tutorial will teach you the basics of jQuery Mobile framework. We will also discuss some detailed concepts related to jQuery Mobile.",
-    "price": "50$",
+    "price": 40,
     "outcomes": [
       "Over 37 lectures and 55.5 hours of content!",
       "LIVE PROJECT End to End Software Testing Training Included",
@@ -34,13 +34,11 @@
     ]
   },
 
-
-
   {
     "name": "Web Designing & HTML5/CSS3",
     "img": "https://i.ibb.co/m8GbvtL/young-attractive-smiling-student-showing-thumb-up-outdoors-campus-university.jpg",
     "course_desc": "HTML 5 is the latest version of the HyperText Mark-Up Language. HTML is the language of choice for structuring and presenting content for the World Wide Web. In this free online course you will learn about the latest features of HTML 5 including Geolocation, video, Web worker, canvas/SVG, app cache and database. This course will b_ of great interest to professionals in the areas of Web design and development and to learners who want to gain a greater knowledge and understanding of HTML 5.",
-    "price": "59$",
+    "price": 59,
     "outcomes": [
       "After studying this course you will have a greater understanding of the following",
       "New features of HTML 5 and their uses",
@@ -69,14 +67,11 @@
     ]
   },
 
-
-
-
   {
     "name": "Complete Beginner to JavaScript Developer",
     "img": "https://i.ibb.co/82gqz71/front-view-female-student-red-shirt-with-backpack-holding-books-files-smiling-blue-wall.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 90,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -106,14 +101,11 @@
     ]
   },
 
-
-
-
   {
     "name": "Learn and Understand AngularJS",
     "img": "https://i.ibb.co/10j6wpb/young-student-woman-wearing-denim-jacket-eyeglasses-holding-colorful-folders-showing-thumb-up-pink.jpg",
     "course_desc": "AngularJS extends HTML with new attributes.AngularJS is perfect for Single Page Applications (SPAs)AngularJS is easy to learn.",
-    "price": "100$",
+    "price": 100,
     "outcomes": [
       "Over 37 lectures and 55.5 hours of content!",
       "LIVE PROJECT End to End Software Testing Training Included",
@@ -144,9 +136,6 @@
     ]
   },
 
-
-
-
   {
     "name": "Learn and Understand ReactJS",
     "img": "https://i.ibb.co/TczCRt7/young-man-student-with-notebooks-showing-thumb-up-approval-smiling-satisfied-blue-studio-background.jpg",
@@ -157,7 +146,7 @@
       "Completing the Game will teach you the most common techniques in React development.",
       "Adding Time Travel will give you a deeper insight into the unique strengths of React."
     ],
-    "price": "100$",
+    "price": 100,
     "id": "0566",
     "category": "07",
     "category_name": "Backend",
@@ -178,14 +167,11 @@
     ]
   },
 
-
-
-
   {
     "name": "Become a PHP Master and Make Money",
     "img": "https://i.ibb.co/QDM4Gzg/pleasant-looking-afro-american-woman-holds-notepads-papers-studies-college-glad-finish-studying.jpg",
     "course_desc": "The en rollers/students can learn the basic programming in PHP and can create their own programs and will also be able to take up the projects related to PHP and  have a deep and strong Understanding of concepts.",
-    "price": "100$",
+    "price": 100,
     "outcomes": [
       "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
       "You will learn how to use Databases",
@@ -212,48 +198,6 @@
     ]
   },
 
-
-
-
-  {
-    "name": "PHP 5 Introduction to coding Tutorial",
-    "img": "https://i.ibb.co/Jz1fXTN/red-haired-lady-eyeglasses-holds-books-shows-ok-sign.jpg",
-    "course_desc": "This tutorial will introduce you to PHP, a server-side scripting language you can use to make dynamic websites and web applications. Before you continue you should have a basic understanding of the following:HTML ,CSS ,JavaScript",
-    "price": "50$",
-    "outcomes": [
-      "Over 37 lectures and 55.5 hours of content!",
-      "LIVE PROJECT End to End Software Testing Training Included",
-      "Learn Software Testing and Automation basics from a professional trainer from your own desk.",
-      "Information packed practical training starting from basics to advanced testing techniques.",
-      "Best suitable for beginners to advanced level users and who learn faster when demonstrated.",
-      "Course content designed by considering current software testing technology and the job market.",
-      "Practical assignments at the end of every session.",
-      "Practical learning experience with live project work and examples."
-    ],
-    "id": "0014",
-    "category": "05",
-    "category_name": "PHP",
-    "teacher-info": [
-      {
-        "teacher_name": "Keny White",
-        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
-      }
-    ],
-    "course_feature": [
-      {
-        "lecture": 6,
-        "quize": 30,
-        "duration": "60 hours",
-        "language": "English",
-        "student": 32
-      }
-    ]
-  },
-
-
-
-  
-
   {
     "name": "Learn Python – Interactive Python",
     "img": "https://i.ibb.co/6mtqY6H/happy-young-female-student-holding-notebooks-from-courses-smiling-camera-standing-spring-clothes-aga.jpg",
@@ -264,7 +208,7 @@
       "We’ll discuss pitfalls to avoid and identify sources of motivation. We’ll also address the best ways to learn basic syntax and how to get started with real Python projects.",
       "Learning Python can be a difficult and painful experience. But it doesn’t have to be! Take it from me."
     ],
-    "price": "50$",
+    "price": 30,
     "id": "0269",
     "category": "02",
     "category_name": "Python",
@@ -285,7 +229,6 @@
     ]
   },
 
-
   {
     "name": "From Zero to Hero with Nodejs",
     "img": "https://i.ibb.co/m9jCNT7/front-view-male-student-wearing-black-backpack-holding-copybooks-files-blue-wall.jpg",
@@ -301,7 +244,7 @@
       "Practical learning experience with live project work and examples."
     ],
     "id": "0722",
-    "price": "50$",
+    "price": 30,
     "category": "07",
     "category_name": "Backend",
     "teacher_info": [
@@ -321,7 +264,6 @@
     ]
   },
 
-
   {
     "name": "Learn Java",
     "img": "https://i.ibb.co/H7XLZ9Q/front-view-female-student-white-shirt-black-jacket-wearing-backpack-holding-files-with-copybooks-blu.jpg",
@@ -336,7 +278,7 @@
       "Practical assignments at the end of every session.",
       "Practical learning experience with live project work and examples."
     ],
-    "price": "50$",
+    "price": 50,
     "id": "0433",
     "category": "04",
     "category_name": "JAVA",
@@ -357,10 +299,9 @@
     ]
   },
 
-
   {
-    "name": "C++ in easy way",
-    "img": "https://i.ibb.co/Jz1fXTN/red-haired-lady-eyeglasses-holds-books-shows-ok-sign.jpg",
+    "name": "Learn C++ in easy way",
+    "img": "https://i.ibb.co/H7XLZ9Q/front-view-female-student-white-shirt-black-jacket-wearing-backpack-holding-files-with-copybooks-blu.jpg",
     "course_desc": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
     "outcomes": [
       "Over 37 lectures and 55.5 hours of content!",
@@ -372,10 +313,9 @@
       "Practical assignments at the end of every session.",
       "Practical learning experience with live project work and examples."
     ],
-    "price": "50$",
-    "id": "0319",
+    "price": 60,
+    "id": "986324",
     "category": "03",
-
     "category_name": "C++",
     "teacher_info": [
       {
@@ -383,7 +323,7 @@
         "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
       }
     ],
-    "course-feature": [
+    "course_feature": [
       {
         "lecture": 6,
         "quize": 30,
@@ -393,7 +333,6 @@
       }
     ]
   },
-
 
   {
     "name": "Learn Python",
@@ -405,7 +344,7 @@
       "We’ll discuss pitfalls to avoid and identify sources of motivation. We’ll also address the best ways to learn basic syntax and how to get started with real Python projects.",
       "Learning Python can be a difficult and painful experience. But it doesn’t have to be! Take it from me."
     ],
-    "price": "70$",
+    "price": 50,
     "id": "0248",
     "category": "02",
 
@@ -427,12 +366,11 @@
     ]
   },
 
-
   {
     "name": "Deep Knowledge of C++",
     "img": "https://i.ibb.co/10j6wpb/young-student-woman-wearing-denim-jacket-eyeglasses-holding-colorful-folders-showing-thumb-up-pink.jpg",
     "course_desc": "With its adaptability and fast rendering, you’ll find the C++ programming language used everywhere, from web browsers to game development and operating systems to science and machine learning tools. This course will help you learn C++ basics and give you hands-on experience to create your own projects and work with computer memory.",
-    "price": "80$",
+    "price": 80,
     "outcomes": [
       "Over 37 lectures and 55.5 hours of content!",
       "LIVE PROJECT End to End Software Testing Training Included",
@@ -464,12 +402,11 @@
     ]
   },
 
-
   {
     "name": "Learn JAVA in Hardest Way",
     "img": "https://i.ibb.co/82gqz71/front-view-female-student-red-shirt-with-backpack-holding-books-files-smiling-blue-wall.jpg",
     "course_desc": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects.",
-    "price": "70$",
+    "price": 40,
     "outcomes": [
       "Over 37 lectures and 55.5 hours of content!",
       "LIVE PROJECT End to End Software Testing Training Included",
@@ -501,12 +438,11 @@
     ]
   },
 
-
   {
     "name": "Way to JavaScript Developer",
     "img": "https://i.ibb.co/m8GbvtL/young-attractive-smiling-student-showing-thumb-up-outdoors-campus-university.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 60,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -537,12 +473,11 @@
     ]
   },
 
-
   {
     "name": "JavaScript Developer",
     "img": "https://i.ibb.co/vXgGN7h/anonymous-woman-studying-with-computer-lawn.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 80,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -576,7 +511,7 @@
     "name": "Getting Started with LESS",
     "img": "https://i.ibb.co/j8GL7Xx/kenny-eliason-1-a-A2-Fadydc-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -606,11 +541,47 @@
       }
     ]
   },
+
+  {
+    "name": "Learn SAASS",
+    "img": "https://i.ibb.co/j8GL7Xx/kenny-eliason-1-a-A2-Fadydc-unsplash.jpg",
+    "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
+    "price": 70,
+    "outcomes": [
+      "Understand the fundamental concepts in JavaScript.",
+      "Asynchronous JavaScript: The event loop, Generator, async Etc.",
+      "Write solid JavaScript code.",
+      "Modern JavaScript for 2020: ES6 modules.",
+      "Solve problems creatively and constructively.",
+      "Support and encourage successful learning.",
+      "Practical assignments at the end of every session."
+    ],
+    "id": "589454",
+    "category": "09",
+
+    "category_name": "POPULAR Courses",
+    "teacher_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg"
+      }
+    ],
+    "course_feature": [
+      {
+        "lecture": 10,
+        "quize": 30,
+        "duration": "25 hours",
+        "language": "English",
+        "student": 25
+      }
+    ]
+  },
+
   {
     "name": "HTML5/CSS3 Essentials in 4-Hours",
     "img": "https://i.ibb.co/82Jr840/dom-fou-YRMWVcdyhm-I-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -644,7 +615,7 @@
     "name": "Web Designing & HTML5/CSS3",
     "img": "https://i.ibb.co/5KvWddR/mimi-thian-vd-XMSi-X-n6-M-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -674,11 +645,12 @@
       }
     ]
   },
+
   {
-    "name": "PHP 5 Introduction to coding Tutorial",
-    "img": "https://i.ibb.co/vXgGN7h/anonymous-woman-studying-with-computer-lawn.jpg",
+    "name": "PHP 5 Introduction to Coding Tutorial in Depth",
+    "img": "https://i.ibb.co/5KvWddR/mimi-thian-vd-XMSi-X-n6-M-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -688,10 +660,10 @@
       "Support and encourage successful learning.",
       "Practical assignments at the end of every session."
     ],
-    "id": "01850",
-    "category": "09",
+    "id": "48465",
+    "category": "05",
 
-    "category_name": "POPULAR Courses",
+    "category_name": "PHP",
     "teacher_info": [
       {
         "teacher_name": "Keny White",
@@ -708,11 +680,12 @@
       }
     ]
   },
+
   {
     "name": "HTML Tutorial: HTML & CSS for Beginners",
     "img": "https://i.ibb.co/5KvWddR/mimi-thian-vd-XMSi-X-n6-M-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -746,7 +719,7 @@
     "name": "Learn and Understand AngularJS",
     "img": "https://i.ibb.co/3skrGRy/wonderlane-b9-od-Qi5o-Do-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -780,7 +753,7 @@
     "name": "Complete Beginner to JavaScript Developer",
     "img": "https://i.ibb.co/ZXhD80w/javier-trueba-i-QPr1-Xk-F5-F0-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -814,7 +787,7 @@
     "name": "1-Hour WordPress Basic Tutorial",
     "img": "https://i.ibb.co/vXgGN7h/anonymous-woman-studying-with-computer-lawn.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -845,12 +818,11 @@
     ]
   },
 
-
   {
     "name": "HTML Tutorial for Beginners",
     "img": "https://i.ibb.co/pJMKrS1/sunrise-university-b-K5t-WPETow-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -884,7 +856,7 @@
     "name": "AngularJS",
     "img": "https://i.ibb.co/TvfDtXm/alexis-brown-omea-Hb-EFl-N4-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -918,7 +890,7 @@
     "name": " Beginner JavaScript Developer",
     "img": "https://i.ibb.co/FV3VRBv/christin-hume-Hcfwew744z4-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
@@ -952,7 +924,7 @@
     "name": "5-Hour WordPress Basic to Core Tutorial",
     "img": "https://i.ibb.co/CwfRWbt/element5-digital-j-CIMc-Op-FHig-unsplash.jpg",
     "course_desc": "My aim to teach technology the right way but at the same time putting emphasis on each of our students. I have professional team of trainers for Web technologies and other programming languages.My courses will help you gain real world skills and knowledge and change your life today! I teaching focuses on conveying the most relevant skills that you can use to build your portfolio and get real, hands-on technical experience geared towards landing you your dream tech industry job.",
-    "price": "70$",
+    "price": 70,
     "outcomes": [
       "Understand the fundamental concepts in JavaScript.",
       "Asynchronous JavaScript: The event loop, Generator, async Etc.",
