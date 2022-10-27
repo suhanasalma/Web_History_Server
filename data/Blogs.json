@@ -1,0 +1,114 @@
+[
+  {
+    "name": "LMS WordPress plugin",
+    "img": "https://i.ibb.co/xh4m4Jc/pexels-olia-danilevich-4974914.jpg",
+    "blog_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Loem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+
+    "id": "487654",
+    "category_name": "BLOG",
+    "date":"26/10/2022",
+    "author_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg",
+        "author_details": "Keny White is Professor of the Department of Computer Science at Boston University, where he has been since 2004. He also currently serves as Chief Scientist of Guavus, Inc. During 2003-2004 he was a Visiting Associate Professor at the Laboratoire d'Infomatique de Paris VI (LIP6). He received a B.S. from Cornell University in 1992, and an M.S. from the State University of New York at Buffalo."
+      }
+    ]
+   },
+  {
+    "name": "Introducing: Dr. Deniz Zeynep",
+    "img": "https://i.ibb.co/k1zmm5C/pexels-thisisengineering-3861961.jpg",
+    "blog_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Loem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+
+    "id": "487545654",
+    "category_name": "BLOG",
+    "date":"20/10/2022",
+    "author_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg",
+        "author_details": "Keny White is Professor of the Department of Computer Science at Boston University, where he has been since 2004. He also currently serves as Chief Scientist of Guavus, Inc. During 2003-2004 he was a Visiting Associate Professor at the Laboratoire d'Infomatique de Paris VI (LIP6). He received a B.S. from Cornell University in 1992, and an M.S. from the State University of New York at Buffalo."
+      }
+    ]
+   },
+  {
+    "name": "Admin earns scholarship",
+    "img": "https://i.ibb.co/Y7zJ03Q/pexels-thisisengineering-3861958.jpg",
+    "blog_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Loem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+
+    "id": "7654",
+    "category_name": "BLOG",
+    "date":"10/10/2022",
+    "author_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg",
+        "author_details": "Keny White is Professor of the Department of Computer Science at Boston University, where he has been since 2004. He also currently serves as Chief Scientist of Guavus, Inc. During 2003-2004 he was a Visiting Associate Professor at the Laboratoire d'Infomatique de Paris VI (LIP6). He received a B.S. from Cornell University in 1992, and an M.S. from the State University of New York at Buffalo."
+      }
+    ]
+   },
+  {
+    "name": "Forensic team earns several",
+    "img": "https://i.ibb.co/3rHXk8b/pexels-pixabay-270348.jpg",
+    "blog_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Loem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+
+    "id": "48754",
+    "category_name": "BLOG",
+    "date":"25/10/2022",
+    "author_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg",
+        "author_details": "Keny White is Professor of the Department of Computer Science at Boston University, where he has been since 2004. He also currently serves as Chief Scientist of Guavus, Inc. During 2003-2004 he was a Visiting Associate Professor at the Laboratoire d'Infomatique de Paris VI (LIP6). He received a B.S. from Cornell University in 1992, and an M.S. from the State University of New York at Buffalo."
+      }
+    ]
+   },
+  {
+    "name": "Becoming a better designer",
+    "img": "https://i.ibb.co/fYqgds0/pexels-thisisengineering-3861972.jpg",
+    "blog_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Loem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+
+    "id": "757654",
+    "category_name": "BLOG",
+    "date":"18/10/2022",
+    "author_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg",
+        "author_details": "Keny White is Professor of the Department of Computer Science at Boston University, where he has been since 2004. He also currently serves as Chief Scientist of Guavus, Inc. During 2003-2004 he was a Visiting Associate Professor at the Laboratoire d'Infomatique de Paris VI (LIP6). He received a B.S. from Cornell University in 1992, and an M.S. from the State University of New York at Buffalo."
+      }
+    ]
+   },
+  {
+    "name": "SEO from Media",
+    "img": "https://i.ibb.co/hZ980Zq/pexels-vlada-karpovich-4050289.jpg",
+    "blog_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Loem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+
+    "id": "4645254",
+    "category_name": "BLOG",
+    "date":"26/10/2022",
+    "author_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg",
+        "author_details": "Keny White is Professor of the Department of Computer Science at Boston University, where he has been since 2004. He also currently serves as Chief Scientist of Guavus, Inc. During 2003-2004 he was a Visiting Associate Professor at the Laboratoire d'Infomatique de Paris VI (LIP6). He received a B.S. from Cornell University in 1992, and an M.S. from the State University of New York at Buffalo."
+      }
+    ]
+   },
+  {
+    "name": "Working",
+    "img": "https://i.ibb.co/1MSm3Jd/pexels-negative-space-48606.jpg",
+    "blog_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the indu7stry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Loem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable.If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+
+    "id": "12054",
+    "category_name": "BLOG",
+    "date":"22/10/2022",
+    "author_info": [
+      {
+        "teacher_name": "Keny White",
+        "teacher_img": "https://i.ibb.co/DYgj53c/vince-fleming-THUISs23-CI-unsplash.jpg",
+        "author_details": "Keny White is Professor of the Department of Computer Science at Boston University, where he has been since 2004. He also currently serves as Chief Scientist of Guavus, Inc. During 2003-2004 he was a Visiting Associate Professor at the Laboratoire d'Infomatique de Paris VI (LIP6). He received a B.S. from Cornell University in 1992, and an M.S. from the State University of New York at Buffalo."
+      }
+    ]
+   }
+]

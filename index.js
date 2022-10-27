@@ -7,10 +7,21 @@ app.use(cors());
 
 const allCategories = require('./data/Categories.json');
 const allCourse = require('./data/allCourse.json');
+const allBlog = require('./data/Blogs.json')
 
 app.get('/categories',(req,res)=>{
    res.send(allCategories)
 })
+
+app.get("/blogs", (req, res) => {
+  res.send(allBlog);
+});
+
+app.get("/blogs/:id", (req, res) => {
+  id = req.params.id;
+  const singleBlog = allBlog.find(blog=>blog.id===id);
+  res.send(singleBlog);
+});
 
 app.get("/allCourse", (req, res) => {
   res.send(allCourse);
