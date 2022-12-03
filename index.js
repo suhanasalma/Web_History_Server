@@ -17,6 +17,8 @@ app.get("/blogs", (req, res) => {
   res.send(allBlog);
 });
 
+
+
 app.get("/blogs/:id", (req, res) => {
   id = req.params.id;
   const singleBlog = allBlog.find(blog=>blog.id===id);
